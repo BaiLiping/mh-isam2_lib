@@ -1,6 +1,10 @@
 MH-iSAM2 library 
 ================
 
+> **Source attribution:** This repository was imported from the
+> [CMU Robot Perception Lab's MH-iSAM2 repository on Bitbucket](https://bitbucket.org/rpl_cmu/mh-isam2_lib/src/master/).
+> The original commit history and license notices are retained.
+
 What is MH-iSAM2?
 -----------------
 
@@ -66,5 +70,4 @@ Additional Information
 ----------------------
 
 MH-iSAM2 was developed in the [Robot Perception Lab](http://rpl.ri.cmu.edu/) of [Michael Kaess](http://www.cs.cmu.edu/~kaess/) at the [Robotics Institute](https://www.ri.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/).
-
 
